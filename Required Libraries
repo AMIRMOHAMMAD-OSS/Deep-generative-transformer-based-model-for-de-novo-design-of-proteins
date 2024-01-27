@@ -1,0 +1,8 @@
+selenium 4.17.2
+webdriver_manager 4.0.1
+math 
+torch 2.1.0+cu121
+numpy 1.23.5
+time
+collections
+
